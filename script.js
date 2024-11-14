@@ -12,3 +12,4 @@ myAverage = myAverage / myGrades.length;
 
 console.log("My grade average is " + myAverage);
 
+//My grade average is NaN
