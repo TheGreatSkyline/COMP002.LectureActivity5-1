@@ -1,6 +1,6 @@
 let myGrades = [100, 100, 90, 73, 78, 94, 86];
 
-myAverage = 0;
+let myAverage = 0;
 
 for (let i = 1; i <= myGrades.length; i++) {
 
